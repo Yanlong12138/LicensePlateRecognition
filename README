@@ -1,0 +1,8 @@
+The goal of the task:
+To devolop a machine vision system embedded within a camera designed to identify and output license plate contents.
+To program development in an Ubuntu 22.4 virtual machine using VMware Fusion. 
+To utilize Eclipse for C/C++ IDE and Visual Studio Code for Python as program editors. 
+To gain experience in OpenCV in C and C++ API. 
+To train CNN object-capture models using YOLOv5; and to train CRNN character-recognition models using OCR. Both models were saved as ONNX files to be loaded in a C++ program.
+To create log files for each program completion to record data such as running time and variable values for further analysis.
+Ensure the program's automatic startup upon Ubuntu booting.
